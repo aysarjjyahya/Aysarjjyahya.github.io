@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/aysar.jpg"
+  avatar           : "/images/Aysar.jpg"
   name             : "Aysar Yahya"
   pronouns         : # "He/his"  
   bio              : "Ph.D. Student in Comm. & Info. (Advertising) | University of Tennessee, Knoxville & Public Relations and Advertising | Anadolu University"
