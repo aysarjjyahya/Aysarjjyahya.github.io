@@ -1,7 +1,7 @@
 ---
 title: "Revealing the hidden: The effect of advertisement disclosure on heavy and light Instagram users’ influencer avoidance"
 collection: publications
-category: Publications
+category: Articles
 permalink: /publication/2024-advertisement-disclosure-influencer-avoidance
 excerpt: 
 date: Oct 22, 2024
