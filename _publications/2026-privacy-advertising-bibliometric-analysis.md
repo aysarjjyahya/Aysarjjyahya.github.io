@@ -1,7 +1,7 @@
 ---
 title: "Twenty-five years of privacy in advertising: a bibliometric analysis and thematic review"
 collection: publications
-category: Articles
+category: Publications
 permalink: /publication/2026-twenty-five-years-privacy-advertising-bibliometric-analysis
 excerpt: 
 date: Aug 11, 2025
