@@ -3,6 +3,7 @@ title: "Revealing the hidden: The effect of advertisement disclosure on heavy an
 collection: publications
 category: Publications
 permalink: /publication/2024-advertisement-disclosure-influencer-avoidance
+excerpt: 
 date: 2024-01-01
 venue: 'Journal of Marketing Communications'
 paperurl: 'https://doi.org/10.1080/13527266.2024.2413919'
