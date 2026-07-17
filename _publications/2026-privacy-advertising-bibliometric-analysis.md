@@ -4,7 +4,7 @@ collection: publications
 category: Publications
 permalink: /publication/2026-twenty-five-years-privacy-advertising-bibliometric-analysis
 excerpt: 
-date: 2026-01-01
+date: Aug 01, 2024
 venue: 'International Journal of Advertising'
 paperurl: 'https://doi.org/10.1080/02650487.2025.2548646'
 citation: 'Çınar, N., & Yahya, A. (2026). "Twenty-five years of privacy in advertising: a bibliometric analysis and thematic review." <i>International Journal of Advertising</i>, 45(5), 1284-1320.'
